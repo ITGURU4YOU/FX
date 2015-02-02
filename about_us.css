@@ -1,0 +1,25 @@
+#about_us
+{
+   text-align: center;
+}
+body
+{
+   background-color: #FFFFFF;
+}
+#wb_Text1 
+{
+   background-color: transparent;
+   border: 0px #000000 solid;
+   padding: 0;
+   text-align: center;
+   vertical-align: top;
+}
+#wb_Text1 div
+{
+   text-align: center;
+}
+#wb_Text1
+{
+   display: block;
+   width: 100%;
+}
